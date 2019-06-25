@@ -1,0 +1,7 @@
+# n11.com sayfasına <username> ve <password> ile login ol
+* saniye bekle "2"
+* "btnSignIn" id li elemente tıkla
+* "email" id li alana <username> değerini gir
+* "password" id li alana <password> değerini gir
+* "loginButton" id li elemente tıkla
+* saniye bekle "4"

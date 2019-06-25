@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"denemeGauge":["specs/deneme.html"]}};
