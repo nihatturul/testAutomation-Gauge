@@ -31,7 +31,7 @@ public class BasePageUtil extends BaseTest {
 
 
     public BasePageUtil() {
- //yorum satırı
+ //yorum satırı eklendi
     }
 
     public BasePageUtil(WebDriver driver) {
